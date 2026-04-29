@@ -70,4 +70,4 @@ npm run dev
 This portfolio avoids flashy gradients and unnecessary colors to maintain a focused, "Data-First" professional look. The layout is perfectly aligned to mirror the precision required in data visualization work.
 
 ---
-Created with ❤️ by [Param Khodiyar](https://github.com/paramkhodiyar)
+Created by [Divy Kumar Jain](https://github.com/divyjain05)
